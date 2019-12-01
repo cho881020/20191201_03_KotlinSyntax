@@ -86,6 +86,13 @@ class MainActivity : AppCompatActivity() {
             Log.d("사람이름/아이디", "${user.name} / ${user.loginId}")
         }
 
+        for (i in 0..5) {
+            Log.d("뽑힌숫자", "${i}")
+        }
+
+
+
+
     }
 }
 
