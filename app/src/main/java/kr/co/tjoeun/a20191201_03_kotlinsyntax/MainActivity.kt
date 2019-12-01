@@ -91,6 +91,9 @@ class MainActivity : AppCompatActivity() {
         }
 
 
+        var user5:User? = null
+
+        user5?.name
 
 
     }
